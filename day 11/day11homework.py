@@ -1,0 +1,1 @@
+print("gadavimeore kvelaperi")
